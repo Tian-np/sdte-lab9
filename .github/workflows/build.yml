@@ -1,4 +1,4 @@
-ame: Build docker image and push to ECR
+name: Build docker image and push to ECR
 
 on:
   push:
